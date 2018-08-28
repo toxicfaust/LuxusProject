@@ -1,0 +1,20 @@
+Some of the pages i used for help:
+
+https://projects.invisionapp.com/share/SWNNY515PYV#/screens/315842230
+
+https://getbootstrap.com/docs/4.1/getting-started/introduction/
+
+https://stackoverflow.com/questions/24885480/how-to-put-a-logo-on-the-left-top-with-float
+
+https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm
+
+https://code.tutsplus.com/tutorials/single-page-react-applications-with-react-router-and-react-transition-group-modules--cms-24507
+
+https://itnext.io/the-easiest-tutorial-on-react-router-v4-youll-ever-find-build-a-single-page-application-in-44c453f4123b
+
+https://teamtreehouse.com/community/bootstrap-line-height-navbar
+
+https://projects.invisionapp.com/share/SWNNY515PYV#/screens/315842230
+
+Revisitied my previous projects to remember some things in JS
+
